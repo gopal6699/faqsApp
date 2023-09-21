@@ -1,0 +1,21 @@
+.app-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  font-family: roboto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.faqs-container {
+  background-color: #ffffff;
+  width: 90%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #cb8805;
+  text-align: center;
+  font-size: 32px;
+}
